@@ -1,5 +1,5 @@
 # OCAS
-A brief description of our project  
+## A brief description of our project  
 As students, each semester we face these problems:  
 Which course will be the most suitable for us in terms of our workload and study time.  
 We don’t exactly know what we will face at the courses we took.  
@@ -7,7 +7,7 @@ It is hard to find course related valuable resources except the uploaded resourc
 To overcome these problems, we came up with the idea of OCAS. Briefly, we provide students the opportunity to find an experienced student and help them during the semester. Basically, we have two end-users: students and mentors. Mentors are the experienced students who take the course one of the previous semesters and have success in it. They apply for our system to be the mentor. If they are accepted, they earn money and start to assist students by uploading useful resources, making recitations, giving them tips, answering their questions and marking important deadlines about the course on the calendar etc.  
 Students register our system and select a subscription type, pay money and take courses. To solve the problem of deciding which course students should take, we thought of this idea:  a suggestion system based on the data gathered from the registered students will be developed. A questionnaire will be created and sent to the students to be filled by the students. The aim of this step is to analyze the data of the students and try to estimate the success rate at the end of the semester.  
 
-Online Course Assistant System API  
+## Online Course Assistant System API  
 A demo version of the graduation project of group OCAS. This API offers these features:  
 1. Mentor and Student Registration Page:  
 Mentor and student registration pages are implemented and they are completely functional since authentication is essential for using OCAS.   
