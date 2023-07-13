@@ -1,5 +1,5 @@
 # OCAS
-A brief description of our project 
+A brief description of our project  
 As students, each semester we face these problems:  
 Which course will be the most suitable for us in terms of our workload and study time.  
 We don’t exactly know what we will face at the courses we took.  
